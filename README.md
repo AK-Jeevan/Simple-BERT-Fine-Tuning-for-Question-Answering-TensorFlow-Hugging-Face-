@@ -3,6 +3,9 @@
 A minimal TensorFlow implementation of **BERT fine-tuning** for the **SQuAD Question Answering** task — no sliding window, no extra preprocessing, just clean and simple code for educational and experimental use.
 
 ---
+## 🤗 datasets
+
+**SQuAD v1.1 dataset** from Datasets Library.
 
 ## 🚀 Features
 
